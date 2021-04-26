@@ -1,9 +1,8 @@
-import Header from './components/Header'
-import Content from './components/Content'
-import Footer from './components/Footer'
+import Header from './components/Header';
+import Content from './components/Content';
+import Footer from './components/Footer';
 
-
-import './components/bootstrap5.css'
+import './components/bootstrap5.css';
 
 function App() {
   return (

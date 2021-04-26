@@ -1,3 +1,5 @@
+import React from 'react';
+
 const Header = () => {
     return(
         
@@ -6,8 +8,10 @@ const Header = () => {
             <div className="row p-3 bg-green ">
             <div className=" col-md-10 "> 
             <div className="p-heading font-weight-bold text-center p-3" > BirdWatching </div></div>
+            <div class=" col-md ">
+            <img src='./logo.png' width='150'  alt ="" />
+            </div></div>
 
-            </div>
             <div className = 'row text-center bg-lime p-1'>
             <div className = 'col'>HOME</div>
             <div className = 'col'>GET STARTED</div>
